@@ -1,0 +1,30 @@
+{
+	"users": [
+		{
+			"id": 1,
+			"vk": 144068466,
+			"nickname": "MARAFON",
+			"admin": 1,
+			"balance": 1036391,
+			"bet": 4,
+			"avgBet": 1111000,
+			"freecoin": 2,
+			"blackList": false,
+			"coinsImport": 0,
+			"coinsExport": 32370,
+			"betGame": 1090000,
+			"winGame": 4,
+			"lossGame": 0,
+			"dateReg": 1559481172,
+			"date": 1560283931,
+			"dateWithdraw": 1560282810,
+			"gameDate": 0,
+			"dateHourBonuss": 1560283932,
+			"personEx": 1.55,
+			"level": 3,
+			"minGame": 0,
+			"minCoin": 24048
+		}
+	],
+	"number": 1
+}

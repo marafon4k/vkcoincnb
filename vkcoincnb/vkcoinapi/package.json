@@ -1,0 +1,38 @@
+{
+    "name": "node-vkcoinapi",
+    "version": "1.5.2",
+    "description": "Работа с API VK Coin",
+    "main": "index.js",
+    "dependencies": {
+      "request-promise": "^4.2.2",
+      "request": "^2.88.0",
+      "koa-body": "^4.1.0",
+      "url": "^0.11.0",
+      "koa": "^2.7.0",
+      "ws": "^6.2.1"
+    },
+    "keywords": [
+      "vcoin",
+      "vkcoin",
+      "vk",
+      "coin",
+      "api",
+      "vkcoinapi",
+      "vk coin api"
+    ],
+    "author": "Fakeman Cat",
+    "license": "ISC",
+    "directories": {
+      "doc": "docs"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/fakemancat/vkcoinapi.git"
+    },
+    "bugs": {
+      "url": "https://github.com/fakemancat/vkcoinapi/issues"
+    },
+    "homepage": "https://github.com/fakemancat/vkcoinapi#readme",
+    "typings": "./typings"
+  }
+  
